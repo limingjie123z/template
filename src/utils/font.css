@@ -1,0 +1,28 @@
+
+@font-face {  
+  font-family: "FZSTK";  
+  src: url('./FZSTK.eot') format("embedded-opentype"),
+		url('./FZSTK.TTF')  format("truetype");  
+  font-weight: normal;  
+  font-style: normal;  
+}
+@font-face {  
+  font-family: "AOTI";  
+  src: url('./PANGMENZHENGDAOBIAOTITI-1.eot') format("embedded-opentype"),
+		url('./PANGMENZHENGDAOBIAOTITI-1.TTF')  format("truetype");  
+  font-weight: normal;  
+  font-style: normal;  
+}
+/* @font-face {  
+  font-family: "FZSTK";  
+  src: url('./FZSTK.TTF');  
+  font-weight: normal;  
+  font-style: normal;  
+} */
+/* 
+ @font-face {  
+  font-family: "FZSTK";  
+  src: url('./FZSTK.eot');  
+  font-weight: normal;  
+  font-style: normal;  
+} */
